@@ -38,6 +38,10 @@ La aplicación incluye:
 * **Tarjeta de estado dinámica:** Muestra en tiempo real si el resultado coincide con los **$500 esperados** o si hubo corrupción de datos (marcado en rojo).
 * **Consola de logs en tiempo real:** Captura la marca de tiempo exacta (milisegundos) y la dirección de memoria del hilo ejecutor (`Thread-0x...`) para auditar el orden de llegada.
 
+## 📸 Demostración en Vivo
+
+![SwiftUI Concurrency Demo](https://media.giphy.com/media/qJprDLEUC0KrKFd89m/giphy.gif)
+
 ---
 
 ## 🚀 Requisitos e Instalación
